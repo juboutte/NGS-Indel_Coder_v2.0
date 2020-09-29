@@ -1,0 +1,7 @@
+#nexus
+
+begin sets;
+	charset part1 = MyFolder_T20/Example2_dna.phy: 1-3253;
+	charset part2 = MyFolder_T20/Example_indel.phy: 1-43;
+
+end;

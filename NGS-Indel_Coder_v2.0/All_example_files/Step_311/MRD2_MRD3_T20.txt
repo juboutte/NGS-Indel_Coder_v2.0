@@ -1,0 +1,8 @@
+Example/fasta_files/Example.fasta	616	682	3.0	3.19696969697
+Example/fasta_files/Example.fasta	1282	1302	21.55	17.275
+Example/fasta_files/Example.fasta	1465	1582	21.55	19.6352941176
+Example/fasta_files/Example.fasta	1890	2405	16.95	16.6541353383
+Example/fasta_files/Example.fasta	2407	2445	16.95	18.0344827586
+Example/fasta_files/Example.fasta	2449	2459	11.0592105263	10.6774193548
+Example/fasta_files/Example.fasta	2461	2511	11.0592105263	11.1690140845
+Example/fasta_files/Example.fasta	2513	3251	11.0592105263	10.9468650372

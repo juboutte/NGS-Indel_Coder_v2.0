@@ -1,0 +1,7 @@
+#nexus
+
+begin sets;
+	charset part1 = MyFolder_T20/Example_delete_partitions_dna.phy: 1-3151;
+	charset part2 = MyFolder_T20/Example_delete_partitions_indel.phy: 1-43;
+
+end;

@@ -1,0 +1,29 @@
+# BLASTN 2.9.0+
+# Query: Asclepiasaffstandleyi1321-10025
+# Database: transcript_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+Asclepiasaffstandleyi1321-10025	Asclepias-10025	100.000	326	0	0	245	570	1	326	1.25e-172	603
+Asclepiasaffstandleyi1321-10025	Asclepias-10025	99.558	226	1	0	2246	2471	907	1132	2.27e-115	412
+Asclepiasaffstandleyi1321-10025	Asclepias-10025	98.851	174	1	1	1634	1806	738	911	3.06e-84	309
+Asclepiasaffstandleyi1321-10025	Asclepias-10025	98.742	159	2	0	1001	1159	466	624	1.86e-76	283
+Asclepiasaffstandleyi1321-10025	Asclepias-10025	100.000	147	0	0	781	927	323	469	4.02e-73	272
+# BLASTN 2.9.0+
+# Query: Asclepiasalbicans003-10025
+# Database: transcript_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 4 hits found
+Asclepiasalbicans003-10025	Asclepias-10025	100.000	326	0	0	245	570	1	326	9.06e-173	603
+Asclepiasalbicans003-10025	Asclepias-10025	99.558	226	1	0	1517	1742	907	1132	1.64e-115	412
+Asclepiasalbicans003-10025	Asclepias-10025	99.371	159	1	0	1001	1159	466	624	2.88e-78	289
+Asclepiasalbicans003-10025	Asclepias-10025	99.320	147	1	0	781	927	323	469	3.75e-72	268
+# BLASTN 2.9.0+
+# Query: Asclepiasamplexicaulis1401-10025
+# Database: transcript_db
+# Fields: query acc.ver, subject acc.ver, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+Asclepiasamplexicaulis1401-10025	Asclepias-10025	100.000	326	0	0	245	570	1	326	1.46e-172	603
+Asclepiasamplexicaulis1401-10025	Asclepias-10025	99.115	226	2	0	2666	2891	907	1132	1.23e-113	407
+Asclepiasamplexicaulis1401-10025	Asclepias-10025	98.851	174	1	1	2047	2219	738	911	3.56e-84	309
+Asclepiasamplexicaulis1401-10025	Asclepias-10025	98.742	159	2	0	1001	1159	466	624	2.16e-76	283
+Asclepiasamplexicaulis1401-10025	Asclepias-10025	99.320	147	1	0	781	927	323	469	6.04e-72	268

@@ -1,0 +1,7 @@
+#nexus
+
+begin sets;
+	charset part1 = MyFolder_T20/Example_delete_partitions_dna.phy: 245-570\3,246-570\3,247-570\3,781-927\3,782-927\3,783-927\3,1001-1159\3,1002-1159\3,1003-1159\3,1517-1806\3,1518-1806\3,1519-1806\3,2047-2219\3,2048-2219\3,2049-2219\3,2246-2471\3,2247-2471\3,2248-2471\3,2666-2891\3,2667-2891\3,2668-2891\3;
+	charset part2 = MyFolder_T20/Example_delete_partitions_dna.phy: 1-244,571-780,928-1000,1160-1516,1807-2046,2220-2245,2472-2665,2892-3151;
+	charset part3 = MyFolder_T20/Example_delete_partitions_indel.phy: 1-43;
+end;
